@@ -1,0 +1,5 @@
+.vscode/
+license/
+node_modules/
+*.json
+.env
