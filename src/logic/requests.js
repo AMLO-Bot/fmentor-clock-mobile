@@ -1,4 +1,3 @@
-import secrets from './secrets.js'
 import {getRandomItem} from './utils.js'
 
 const fetchQuote  = async () => {
